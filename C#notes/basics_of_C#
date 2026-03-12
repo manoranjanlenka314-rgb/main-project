@@ -1,0 +1,9 @@
+1.Explain the difference between ref, out, and in parameters in C#.
+
+ref: Requires initialization before passing, allows both input and output.
+
+out: Must be assigned inside the method before returning, used for multiple return values.
+
+in: Read‑only reference, cannot be modified inside the method.
+
+
